@@ -9,3 +9,11 @@
     "checked_at": "2025-09-13T08:00:00+05:30"
   }
 ]
+
+//Contributing & Extending
+
+Add platforms by editing PLATFORMS.
+
+Improve heuristics for platforms that return 200 for unknown users (custom content checks).
+
+Add OAuth/API checks for platforms that provide official endpoints (Twitter, GitHub, etc.) to get richer metadata.
