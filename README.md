@@ -5,6 +5,8 @@
 **Async OSINT tool** to quickly check whether a username exists across common platforms.  
 Useful for footprinting, digital profiling, and collecting public presence signals. Outputs results as JSON and CSV for analysis.
 
+for more information : https://www.linkedin.com/in/ossintresearcher/
+
 ---
 
 ## Features
