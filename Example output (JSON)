@@ -1,0 +1,11 @@
+[
+  {
+    "username": "alice42",
+    "platform": "github",
+    "url": "https://github.com/alice42",
+    "http_status": 200,
+    "exists": true,
+    "note": "",
+    "checked_at": "2025-09-13T08:00:00+05:30"
+  }
+]
